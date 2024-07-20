@@ -18,4 +18,4 @@ PC web端使用vue+elementui。
 
 3.提供内嵌技术，内嵌、打包、签名、分发全流程负责。
 
-4.[TG联系](https://t.me/bianbianguoji)
+4.[TG联系:https://t.me/bianbianguoji](https://t.me/bianbianguoji)
