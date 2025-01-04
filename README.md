@@ -19,7 +19,7 @@ Pass:可嵌入资金盘，刷单，股票
 
 3.提供内嵌技术，内嵌、打包、签名、分发全流程负责。
 
-4.[TG联系:https://t.me/jdgamea](https://t.me/jdgamea)
+4.[TG联系:https://t.me/bianbianguoji1](https://t.me/bianbianguoji1)
 
 5.系统截图：
 
