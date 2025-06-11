@@ -13,13 +13,13 @@ Pass:可嵌入资金盘，刷单，股票
 
 系统功能：
 
-1.2024Tiktok 安卓 IOS内嵌2.0；
+1.2024-2025Tiktok 安卓 IOS内嵌2.0；
 
-2.TK注册登录后不用再注册，可以免登陆、同步信息直接登录内嵌商城、网站；
+2.TK注册登录后不用再注册，可以免登陆、同步信息直接登录内嵌商城、网站，接入第三方支付，加入投诉功能；
 
 3.提供内嵌技术，内嵌、打包、签名、分发全流程负责。
 
-4.[TG联系:https://t.me/bianbianguoji1](https://t.me/bianbianguoji1)
+4.[TG联系:https://t.me/safegq](https://t.me/safegq)
 
 5.系统截图：
 
